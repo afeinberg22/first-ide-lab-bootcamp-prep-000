@@ -1,4 +1,4 @@
-# Your First IDE Labhttps://learn.co/tracks/bootcamp-prep/javascript-fundamentals/programming-js-in-the-ide/first-ide-lab#
+# Your First IDE Lab
 
 <div class="readme-content-test--hide-when-active">
 
